@@ -10,6 +10,9 @@ namespace QQ
     {
         static void Main(string[] args)
         {
+            Manager m = new Manager();
+            m.Dl();
+            Console.ReadKey();
         }
     }
 }

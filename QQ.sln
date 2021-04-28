@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QQ", "QQ\QQ.csproj", "{565B5416-A766-4AB3-9010-7C0DADD07386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{565B5416-A766-4AB3-9010-7C0DADD07386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565B5416-A766-4AB3-9010-7C0DADD07386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565B5416-A766-4AB3-9010-7C0DADD07386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565B5416-A766-4AB3-9010-7C0DADD07386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6D8BF8F-8B27-44D1-A9EA-9F675B8EBEAD}
+	EndGlobalSection
+EndGlobal
